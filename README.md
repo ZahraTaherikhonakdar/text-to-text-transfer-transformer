@@ -1,4 +1,5 @@
 # T5: Text-To-Text Transfer Transformer
+![type-aware flow](https://github.com/user-attachments/assets/0a242548-cc63-46c6-9b23-3b725e1b0d2c)
 
 
 ### As of July 2022, we recommend using T5X:
